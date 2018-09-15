@@ -2,8 +2,8 @@
 
 def position_taken? (board, index)
   if(index != " ")
-    TRUE
-    elsif
-    FALSE
+    
+    elsif (index == " ")
+    
     
 end
