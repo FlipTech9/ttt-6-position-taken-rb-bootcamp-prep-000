@@ -3,7 +3,7 @@
 def position_taken? (board, index)
   isTaken = nil
   
-  if(board[index] == " ")
+  if(board[index] == " " || board[index] == "")
     isTaken = false 
   end
 end
