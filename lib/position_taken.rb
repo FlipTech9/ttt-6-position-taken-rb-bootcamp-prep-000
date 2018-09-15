@@ -8,4 +8,7 @@ def position_taken? (board, index)
   elsif
     isTaken = true 
   end
+  
+  isTaken
+  
 end
